@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "fundHouseName": "Capital Asset Management",
+    "fundHouseCode": "CAM",
+    "productCode": "CMMF",
+    "productName": "Capital Money Market Fund",
+    "productCategory": "MM",
+    "oneYearPerformance": 4.72,
+    "lastNav": 1545.24,
+    "riskProfileProductName": "Conservative"
+  },
+  {
+    "id": "2",
+    "fundHouseName": "Sucor Asset Management",
+    "fundHouseCode": "SAM",
+    "productCode": "SSMMF",
+    "productName": "Sucorinvest Sharia Money Market Fund",
+    "productCategory": "MM",
+    "oneYearPerformance": 3.54,
+    "lastNav": 1289.28,
+    "riskProfileProductName": "Conservative"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "3",
+    "fundHouseName": "Mandiri Manajemen Investasi",
+    "fundHouseCode": "MMI",
+    "productCode": "MIDO",
+    "productName": "Mandiri Investa Dana Obligasi Seri II",
+    "productCategory": "FI",
+    "oneYearPerformance": 8.77,
+    "lastNav": 1534.53,
+    "riskProfileProductName": "Moderate"
+  },
+  {
+    "id": "4",
+    "fundHouseName": "Allianz Global Investors Asset Management",
+    "fundHouseCode": "AGIAM",
+    "productCode": "AFIF",
+    "productName": "Allianz Fixed Income Fund",
+    "productCategory": "FI",
+    "oneYearPerformance": 9.24,
+    "lastNav": 1501.08,
+    "riskProfileProductName": "Moderate"
+  }
+]
